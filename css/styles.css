@@ -110,25 +110,20 @@ a:hover{
 }
 
 .btn {
-    background: #11cdd4;
-    background-image: linear-gradient(top, #11cdd4, #11999e);
-    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-    border-radius: 8;
-    border-radius: 8;
-    border-radius: 8px;
-    font-family: Arial;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
 }
-  
+
 .btn:hover {
-    background: #30e3cb;
-    background-image: linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
-    text-decoration: none;
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
 }
